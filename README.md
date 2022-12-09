@@ -35,7 +35,7 @@ to testing and cataloging usable parts, then finally assembling and configuring 
 #### EDUCATION ####
   Later I would pursue higher education in Computer Science at Southern Oregon University (SOU).
 During my time at SOU, I happily worked in the I.T. department, servicing SOU faculty and students alike.
-In five years at SOU, I had made my way from I.T. HelpDesk, to Software Deployment, and assisting 
+In five years at SOU, I had made my way from I.T. HelpDesk, to Software Deployment and assisting 
 the Sys-Admins with a variety of responsibilities. 
 
   My focus started with an emphasis on Software Engineering, and I took most of the required courses
@@ -108,15 +108,15 @@ the same.
 
 #### What I'm looking for from an employer in 2023 ####
 
-  *Remote is almost a must at this point - office as option could be nice.
+  * Remote is almost a must at this point - office as option could be nice.
   
-  *(mostly)Asynchronous would be lovely - not strictly required.
+  * (mostly)Asynchronous would be lovely - not strictly required.
   
-  *Good team with mentors and peers - I like learning and sharing information.
+  * Good team with mentors and peers - I like learning and sharing information.
   
-  *Healthy work-life balance - get the job done, avoid burnout.
+  * Healthy work-life balance - get the job done, avoid burnout.
   
-  *Benefits - health, 401k (with match), profit sharing, vacation, sick leave, etc...
+  * Benefits - health, 401k (with match), profit sharing, vacation, sick leave, etc...
   
-  *Pay - since the recent economic changes, $90-120k salary seems reasonable. 
+  * Pay - since the recent economic changes, $90-120k salary seems reasonable. 
   

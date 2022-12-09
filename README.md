@@ -107,17 +107,17 @@ ToDo:
 
 -Define what I'm looking for from an employer in 2023
 
-  *remote is almost a must at this point.
+  *Remote is almost a must at this point.
   
-  *(mostly)asynchronous would be lovely
+  *(mostly)Asynchronous would be lovely - not strictly required.
   
-  *a good team with mentors and peers
+  *Good team with mentors and peers - I like learning and sharing information.
   
-  *a healthy work-life balance
+  *Healthy work-life balance - get the job done, avoid burnout.
   
-  *benefits
+  *Benefits - health, 401k (with match?), profit sharing, vacation, sick leave, etc...
   
-  *pay
+  *Pay - since the recent economic changes, $90-120k salary seems reasonable. 
   
 
 -Update and revise resume with appropriate details from 7 years experience.
@@ -125,7 +125,5 @@ ToDo:
 -Continue refresher courses and share what I've been learning.
 
 -Play with new(to me) technologies and languages like Docker and Go.
-
--Rewrite and refine LinkedIn profile and self-introduction via this README.md
 
 -Meet and greet with likeminded individuals and companies.

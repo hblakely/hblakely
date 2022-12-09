@@ -39,7 +39,7 @@ In five years at SOU, I had made my way from I.T. HelpDesk, to Software Deployme
 the Sys-Admins with a variety of responsibilities. 
 
   My focus started with an emphasis on Software Engineering, and I took most of the required courses
-for such a degree. It was in my fourth year that my interests were shifted towards a security focus.
+for such a degree. It was in my fourth year that my interests were shifted towards software security.
 Digital forensics fascinated me. Both Red and Blue team methodologies were very enticing. The idea of 
 making a system do what I wanted, and not what it was intended to do, made me feel alive. Networks, 
 System Administration, Kali Linux, and DEFCON were all I could think about for quite some time.

@@ -25,10 +25,11 @@ I knew, at that moment, computers were akin to magic and I wanted to be a part o
   In 2003 I had built my first computer with the help of Free Geek in Portland Oregon. 
 Volunteering at Free Geek gave me the opportunity as a young man to recycle e-wasted machines, and to
 build systems from viable parts using Red Hat Linux. It was a dream-opportunity for me, as I was living
-in a town of 420 residents, far away from the technical world. Gear from all across time would float into
-Free Geek, and I became intimately aware of hardware's evolution. From physically dismantaling computer
-systems, to testing and cataloging usable parts, then finally assembling and configuring custom chassis, 
-I had the luxury to explore the mysterious world of computing.
+far away from the technical world in a town of 420 residents. 
+
+  Gear from all across time would float into Free Geek, and I became intimately aware of hardware's evolution. 
+I had the luxury to explore the mysterious world of computing; from physically dismantaling computer systems, 
+to testing and cataloging usable parts, then finally assembling and configuring custom chassis.
 
 -------------------------------------
 #### EDUCATION ####
@@ -39,11 +40,12 @@ the Sys-Admins with a variety of responsibilities.
 
   My focus started with an emphasis on Software Engineering, and I took most of the required courses
 for such a degree. It was in my fourth year that my interests were shifted towards a security focus.
-Digital forensics fascinated me. Both Red and Blue team methodologies were very enticing. The idea
-of making a system do what I wanted and not what it was intended to do made me feel alive. Networks,
+Digital forensics fascinated me. Both Red and Blue team methodologies were very enticing. The idea of 
+making a system do what I wanted, and not what it was intended to do, made me feel alive. Networks, 
 System Administration, Kali Linux, and DEFCON were all I could think about for quite some time.
+
 Alas, I met a love interest in the last term of my college career, and realized that InfoSec (while
-fascinating), may not be the choice for me. Too close to a degree to change course now, I finished
+fascinating), may not be the choice for me. Too close to a degree to change course, I finished
 my major but began looking for employment in another sector.
 
   Addmittedly my mathematical understanding and application wasn't what I would like it to be, and

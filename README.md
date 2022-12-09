@@ -34,7 +34,7 @@ I had the luxury to explore the mysterious world of computing.
 #### EDUCATION ####
   Later I would pursue higher education in Computer Science at Southern Oregon University (SOU).
 During my time at SOU, I happily worked in the I.T. department, servicing SOU faculty and students alike.
-In 5 years at SOU, I had made my way from I.T. HelpDesk, to Software Deployment, and assisting 
+In five years at SOU, I had made my way from I.T. HelpDesk, to Software Deployment, and assisting 
 the Sys-Admins with a variety of responsibilities. 
 
   My focus started with an emphasis on Software Engineering, and I took most of the required courses

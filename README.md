@@ -106,7 +106,7 @@ the same.
 
 -------------------------------------
 
-#### What I'm looking for from an employer in 2023 ####
+#### What I'm looking for in an employer in 2023 ####
 
   * Remote is almost a must at this point - office as option could be nice.
   

@@ -77,7 +77,7 @@ testing to verify proper functionality.
 
 -------------------------------------
 #### HIATUS ####
-  Crohn's disease paused my activity with VRC starting April 1, 2021. Since then, a variety of medications
+  Crohn's disease paused my activity with VRC starting April 1st, 2021. Since then, a variety of medications
 have been tested until we finally found one that worked. With fantastic new medication, and a life-saving
 surgery, I have been making a miraculous recovery. Instead of jumping back immediately after experiencing
 positive results, I've been taking time to recover fully and get myself back up to speed technologically.

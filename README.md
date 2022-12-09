@@ -107,7 +107,7 @@ ToDo:
 
 -Define what I'm looking for from an employer in 2023
 
-  *Remote is almost a must at this point.
+  *Remote is almost a must at this point, office as option could be nice.
   
   *(mostly)Asynchronous would be lovely - not strictly required.
   

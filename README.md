@@ -30,8 +30,7 @@ Volunteering at Free Geek gave me the opportunity as a young man to recycle e-wa
 build systems from viable parts using Red Hat Linux. It was a dream-opportunity for me, as I was living
 in a town of 420 residents, far away from the technical world. Gear from all across time would float into
 Free Geek, and I became intimately aware of hardware's evolution. From physically dismantaling computer
-systems, to testing and cataloging usable parts, then finally assembling and configuring custom chassis,
-
+systems, to testing and cataloging usable parts, then finally assembling and configuring custom chassis, 
 I had the luxury to explore the mysterious world of computing.
 
 -------------------------------------

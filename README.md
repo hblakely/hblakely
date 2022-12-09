@@ -3,7 +3,7 @@
 
 
 -------------------------------------
-TLDR:
+##### TLDR #####
 
 I've been in and out of the world of technology since I can remember. I have a BS in CS and 7 years full stack
 experience.

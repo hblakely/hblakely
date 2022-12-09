@@ -103,9 +103,8 @@ as often as is good to do so; and I look forward to spending time and collaborat
 the same.
 
 -------------------------------------
-ToDo: 
 
--Define what I'm looking for from an employer in 2023
+#### What I'm looking for from an employer in 2023 ####
 
   *Remote is almost a must at this point, office as option could be nice.
   
@@ -119,11 +118,3 @@ ToDo:
   
   *Pay - since the recent economic changes, $90-120k salary seems reasonable. 
   
-
--Update and revise resume with appropriate details from 7 years experience.
-
--Continue refresher courses and share what I've been learning.
-
--Play with new(to me) technologies and languages like Docker and Go.
-
--Meet and greet with likeminded individuals and companies.

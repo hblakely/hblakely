@@ -5,10 +5,9 @@
 -------------------------------------
 ##### TLDR #####
 
-I've been in and out of the world of technology since I can remember. I have a BS in CS and 7 years full stack
-experience.
-
-While I've dabbled with many languages at just about every level of the stack, I'm most comfortable with Java.
+  With a Bachelor's of Science in Computer Science and seven years full stack experience, I've seen a few things. 
+What I've learned so far is that there is always more to know. While I've dabbled with a variety of languages 
+I'm most comfortable with Java, though I am interested in expanding my understanding and tool-sets.
 
 So far this GitHub account is being used to track my (recent) progress with projecteueler.com's math+cs problems,
 and leetcode.com's cs interview questions.

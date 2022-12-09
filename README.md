@@ -114,7 +114,7 @@ the same.
   
   *Healthy work-life balance - get the job done, avoid burnout.
   
-  *Benefits - health, 401k (with match?), profit sharing, vacation, sick leave, etc...
+  *Benefits - health, 401k (with match), profit sharing, vacation, sick leave, etc...
   
   *Pay - since the recent economic changes, $90-120k salary seems reasonable. 
   

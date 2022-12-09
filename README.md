@@ -51,9 +51,9 @@ opperating effectively, maintain security certificates, and also remove dependen
 Database - saving us a chunk of change.
 
   A new language is cool, but without a proper developement environment for that language our developers 
-wouldn't be as effective as we'd like. Repurposing WaveMaker's web IDE allowed us to make typie typie 
-into clickie clickie, speeding up developement. VRC's insurance system customers could now appreciate
-a faster build-time for customer application services.
+wouldn't be as effective as we'd like. Repurposing WaveMaker's web IDE allowed us to make "typie-typie" 
+into "clickie-clickie", speeding up developement. VRC's insurance system customers could now appreciate
+a faster build-time for custom application services.
 
 -------------------------------------
 #### HIATUS ####

@@ -44,8 +44,8 @@ Digital forensics fascinated me. Both Red and Blue team methodologies were very 
 making a system do what I wanted, and not what it was intended to do, made me feel alive. Networks, 
 System Administration, Kali Linux, and DEFCON were all I could think about for quite some time.
 
-Alas, I met a love interest in the last term of my college career, and realized that InfoSec (while
-fascinating), may not be the choice for me. Too close to a degree to change course again, I finished
+  Alas, I met a love interest in the last term of my college career; and realized that InfoSec, while
+attractive, may not be the choice for me. Too close to a degree to change course again, I finished
 my major but began looking for employment in another sector.
 
   Addmittedly my mathematical understanding and application wasn't what I would like it to be, and
@@ -72,7 +72,7 @@ wouldn't be as effective as we'd like. Repurposing WaveMaker's web-based IDE to 
 allowed us to make "typie-typie" into "clickie-clickie", speeding up developement. VRC's insurance system 
 customers could now appreciate a faster build-time for custom application services.
 
- As a member of R&D tasks were often brand new to me. It didn't matter which languages, or which parts of 
+  As a member of R&D tasks were often brand new to me. It didn't matter which languages, or which parts of 
 the stack were in use, it only mattered that the job got done. In addition to building the tools for 
 VRC's developers, it was my duty to assist those same developers in correcting problematic code, and
 testing to verify proper functionality. 
@@ -96,10 +96,10 @@ in eemployment.
 
 #### PERSONAL LIFE ####
 
-I've nearly been a cyborg for 19 years now, delving into many aspects of computers and technology
+  I've nearly been a cyborg for 19 years now, delving into many aspects of computers and technology
 since childhood. I do, however, have a number of interests outside of my techical background.
 
-Rock climbing, snow boarding, karate, yoga, audio engineering, musical performance, cooking, chess, 
+  Rock climbing, snow boarding, karate, yoga, audio engineering, musical performance, cooking, chess, 
 and a number of other pass-times have been a part of my life too. I enjoy life, and what it has to offer,
 as often as is good to do so; and I look forward to spending time and collaborating with others who do
 the same.

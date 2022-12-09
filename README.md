@@ -37,18 +37,33 @@ During my time at SOU, I happily worked in the I.T. department, servicing SOU fa
 In 5 years at SOU, I had made my way from I.T. HelpDesk, to Software Deployment, and assisting 
 the Sys-Admins with a variety of responsibilities. 
 
+  My focus started with an emphasis on Software Engineering, and I took most of the required courses
+for such a degree. It was in my fourth year that my interests were shifted towards a security focus.
+Digital forensics fascinated me. Both Red and Blue team methodologies were very enticing. The idea
+of making a system do what I wanted and not what it was intended to do made me feel alive. Networks,
+System Administration, Kali Linux, and DEFCON were all I could think about for quite some time.
+Alas, I met a love interest in the last term of my college career, and realized that InfoSec (while
+fascinating), may not be the choice for me. Too close to a degree to change course now, I finished
+my major but began looking for employment in another sector.
+
+  Addmittedly my mathematical understanding and application wasn't what I would like it to be, and
+my knowledge of data structures and algorithms weren't bolstered to the degree of a full-fledged
+software engineer graduate. However, being a determined individual, I didn't let that stop me from
+searching for employment as an engineer.
+
 -------------------------------------
 #### SOFTWARE CAREER ####
   After graduating with a Bachelor's of Computer Science Information Assurance in June 2013, 
 I began my career in Software Engineering with Virtual Research Corporation Insurance Systems (VRC). 
 Seven years of full stack engineering alongside VRC's Guru Peter Guy was a unique experience for a 
 freshly graduated CS major. For the first two years we would meet in-office to collaborate. The 
-following five years were spent remotely collaborating. Over a seven year period, our small R&D
-team designed a fourth generation language to remove our dependency on a soon-to-be deprecated
-language, (Oracle's) SQR. ANTLR 4's grammer generation allowed us to create our own language,
-and also to translate our codebase to the new V4GL. This new language allowed VRC to continue 
-opperating effectively, maintain security certificates, and also remove dependency from Oracle
-Database - saving us a chunk of change.
+following five years were spent remotely collaborating. 
+
+  Over a seven year period, our small R&D team designed a fourth generation language to remove our 
+dependency on a soon-to-be deprecated language, (Oracle's) SQR. ANTLR 4's grammer generation allowed 
+us to create our own language, and also to translate our codebase to the new V4GL. This new language 
+allowed VRC to continue opperating effectively, maintain security certificates, and also remove dependency 
+from Oracle Database - saving us a chunk of change.
 
   A new language is cool, but without a proper developement environment for that language our developers 
 wouldn't be as effective as we'd like. Repurposing WaveMaker's web IDE allowed us to make "typie-typie" 

@@ -57,7 +57,7 @@ searching for employment as an engineer.
 I began my career in Software Engineering with Virtual Research Corporation Insurance Systems (VRC). 
 Seven years of full stack engineering alongside VRC's Guru Peter Guy was a unique experience for a 
 freshly graduated CS major. For the first two years we would meet in-office to collaborate. The 
-following five years were spent remotely collaborating. 
+following five years were spent as remote collegues. 
 
   Over a seven year period, our small R&D team designed a fourth generation language to remove our 
 dependency on a soon-to-be deprecated language, (Oracle's) SQR. ANTLR 4's grammer generation allowed 

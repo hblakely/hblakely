@@ -20,7 +20,7 @@ Reach me: https://www.linkedin.com/in/hunter-blakely-81837370/
 ##### EARLY YEARS #####
 
   I've been a fan of technology since 1995, when (at five years old) I saw an email sent for the first time. 
-I knew at that moment computers were akin to magic, and I wanted to be a part of that fantastic world.
+I knew, at that moment, computers were akin to magic and I wanted to be a part of that fantastic world.
 
   In 2003 I had built my first computer with the help of Free Geek in Portland Oregon. 
 Volunteering at Free Geek gave me the opportunity as a young man to recycle e-wasted machines, and to

@@ -61,16 +61,16 @@ Seven years of full stack engineering alongside VRC's Guru Peter Guy was a uniqu
 freshly graduated CS major. For the first two years we would meet in-office to collaborate. The 
 following five years were spent as remote collegues. 
 
-  Over a seven year period, our small R&D team designed a fourth generation language to remove our 
+  Over a seven year period our small R&D team designed a fourth generation language to remove our 
 dependency on a soon-to-be deprecated language, (Oracle's) SQR. ANTLR 4's grammer generation allowed 
-us to create our own language, and also to translate our codebase to the new V4GL. This new language 
+us to create our own language (V4G), and also to translate our codebase to the new V4GL. This new language 
 allowed VRC to continue opperating effectively, maintain security certificates, and also remove dependency 
-from Oracle Database - saving us a chunk of change.
+from Oracle's Database - saving us a chunk of change. Instead, we adopted Postgres DB.
 
   A new language is cool, but without a proper developement environment for that language our team 
-wouldn't be as effective as we'd like. Repurposing WaveMaker's web IDE to build software using V4GL allowed 
-us to make "typie-typie" into "clickie-clickie", speeding up developement. VRC's insurance system customers 
-could now appreciate a faster build-time for custom application services.
+wouldn't be as effective as we'd like. Repurposing WaveMaker's web-based IDE to build software using V4GL 
+allowed us to make "typie-typie" into "clickie-clickie", speeding up developement. VRC's insurance system 
+customers could now appreciate a faster build-time for custom application services.
 
  As a member of R&D tasks were often brand new to me. It didn't matter which languages, or which parts of 
 the stack were in use, it only mattered that the job got done. In addition to building the tools for 

@@ -45,7 +45,7 @@ making a system do what I wanted, and not what it was intended to do, made me fe
 System Administration, Kali Linux, and DEFCON were all I could think about for quite some time.
 
 Alas, I met a love interest in the last term of my college career, and realized that InfoSec (while
-fascinating), may not be the choice for me. Too close to a degree to change course, I finished
+fascinating), may not be the choice for me. Too close to a degree to change course again, I finished
 my major but began looking for employment in another sector.
 
   Addmittedly my mathematical understanding and application wasn't what I would like it to be, and

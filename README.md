@@ -92,16 +92,33 @@ in employment.
 
 -------------------------------------
 
+PERSONAL LIFE
 
+I've nearly been a cyborg for 19 years now. Delving into many aspects of computers and technology
+since childhood. I do, however, have a number of interests outside of my techical background.
+
+Rock climbing, snow boarding, karate, yoga, audio engineering, musical performance, cooking, chess, 
+and a number of other pass-times have been a part of my life too. I enjoy life, and what it has to offer,
+as often as is good to do so; and I look forward to spending time and collaborating with others who do
+the same.
+
+-------------------------------------
 ToDo: 
 
 -Define what I'm looking for from an employer in 2023
+
   *remote is almost a must at this point.
+  
   *(mostly)asynchronous would be lovely
+  
   *a good team with mentors and peers
+  
   *a healthy work-life balance
+  
   *benefits
+  
   *pay
+  
 
 -Update and revise resume with appropriate details from 7 years experience.
 

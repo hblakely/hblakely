@@ -1,8 +1,10 @@
 👋 Hi, my name is Hunter Blakely. 
 
 
-(TLDR):
+
 -------------------------------------
+TLDR:
+
 I've been in and out of the world of technology since I can remember. I have a BS in CS and 7 years full stack
 experience.
 
@@ -16,6 +18,7 @@ I’m looking to collaborate on interesting projects that have the potential to 
 How to reach me: https://www.linkedin.com/in/hunter-blakely-81837370/
 
 I'll be updating things as I go, so feel free to follow along if you like.
+
 -------------------------------------
 
 
@@ -31,7 +34,9 @@ build systems from viable parts using Red Hat Linux. It was a dream-opportunity 
 in a town of 420 residents, far away from the technical world. Gear from all across time would float into
 Free Geek, and I became intimately aware of hardware's evolution. From physically dismantaling computer
 systems, to testing and cataloging usable parts, then finally assembling and configuring custom chassis,
+
 I had the luxury to explore the mysterious world of computing.
+
 -------------------------------------
 
 -------------------------------------
@@ -40,9 +45,10 @@ I had the luxury to explore the mysterious world of computing.
 During my time at SOU, I happily worked in the I.T. department, servicing SOU faculty and students alike.
 In 5 years at SOU, I had made my way from I.T. HelpDesk, to Software Deployment, and assisting 
 the Sys-Admins with a variety of responsibilities. 
-#### EDUCATION ####
+
 -------------------------------------
 
+-------------------------------------
 #### SOFTWARE CAREER ####
   After graduating with a Bachelor's of Computer Science Information Assurance in June 2013, 
 I began my career in Software Engineering with Virtual Research Corporation Insurance Systems (VRC). 
@@ -57,8 +63,10 @@ A new language is cool, but without a proper developement environment for that l
 wouldn't be as effective as we'd like. Repurposing WaveMaker's web IDE allowed us to make typie typie 
 into clickie clickie, speeding up developement. VRC's insurance system customers could now appreciate
 a faster build-time for customer application services.
-#### SOFTWARE CAREER ####
 
+-------------------------------------
+
+-------------------------------------
 #### HIATUS ####
   Crohn's disease paused my activity with VRC starting April 1, 2021. Since then, a variety of medications
 have been tested until we finally found one that worked. With fantastic new medication, and a life-saving
@@ -68,7 +76,8 @@ positive results, I've been taking time to recover fully and get myself back up 
   I’m currently refreshing in best practices for data structures and time complexity via leetcode.com; and
 mathematical challenges via projeceueler.com. In addition to making my code more efficient, I am
 practicing with a number of full-stack tools, the newest to me being Docker. 
-#### HIATUS ####
+
+-------------------------------------
 
 
 ToDo: 

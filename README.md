@@ -61,7 +61,7 @@ Seven years of full stack engineering alongside VRC's Guru Peter Guy was a uniqu
 freshly graduated CS major. For the first two years we would meet in-office to collaborate. The 
 following five years were spent as remote collegues. 
 
-  Over a seven year period our small R&D team designed a fourth generation language to remove our 
+  Over a seven year period our small R&D team engineered a fourth generation language to remove our 
 dependency on a soon-to-be deprecated language, (Oracle's) SQR. ANTLR 4's grammer generation allowed 
 us to create our own language (V4G), and also to translate our codebase to the new V4GL. This new language 
 allowed VRC to continue opperating effectively, maintain security certificates, and also remove dependency 

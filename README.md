@@ -55,6 +55,11 @@ wouldn't be as effective as we'd like. Repurposing WaveMaker's web IDE allowed u
 into "clickie-clickie", speeding up developement. VRC's insurance system customers could now appreciate
 a faster build-time for custom application services.
 
+ As a member of R&D tasks were often brand new to me. It didn't matter what languages, or what parts of 
+the stack were in use, it only mattered that the job got done. In addition to building the tools for 
+VRC's developers, it was my duty to assist those same developers in correcting problematic code, and
+testing to verify proper functionality. 
+
 -------------------------------------
 #### HIATUS ####
   Crohn's disease paused my activity with VRC starting April 1, 2021. Since then, a variety of medications

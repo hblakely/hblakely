@@ -65,10 +65,10 @@ us to create our own language, and also to translate our codebase to the new V4G
 allowed VRC to continue opperating effectively, maintain security certificates, and also remove dependency 
 from Oracle Database - saving us a chunk of change.
 
-  A new language is cool, but without a proper developement environment for that language our developers 
-wouldn't be as effective as we'd like. Repurposing WaveMaker's web IDE allowed us to make "typie-typie" 
-into "clickie-clickie", speeding up developement. VRC's insurance system customers could now appreciate
-a faster build-time for custom application services.
+  A new language is cool, but without a proper developement environment for that language our team 
+wouldn't be as effective as we'd like. Repurposing WaveMaker's web IDE to build software using V4GL allowed 
+us to make "typie-typie" into "clickie-clickie", speeding up developement. VRC's insurance system customers 
+could now appreciate a faster build-time for custom application services.
 
  As a member of R&D tasks were often brand new to me. It didn't matter which languages, or which parts of 
 the stack were in use, it only mattered that the job got done. In addition to building the tools for 

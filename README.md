@@ -24,7 +24,7 @@ I knew, at that moment, computers were akin to magic and I wanted to be a part o
 
   In 2003 I had built my first computer with the help of Free Geek in Portland Oregon. 
 Volunteering at Free Geek gave me the opportunity as a young man to recycle e-wasted machines, and to
-build systems from viable parts using Red Hat Linux. It was a dream-opportunity for me, as I was living
+build systems from viable components using Red Hat Linux. It was a dream-opportunity for me, as I was living
 far away from the technical world in a town of 420 residents. 
 
   Gear from all across time would float into Free Geek, and I became intimately aware of hardware's evolution. 

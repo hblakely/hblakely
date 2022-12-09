@@ -19,8 +19,9 @@ I'll be updating things as I go, so feel free to follow along if you like.
 -------------------------------------
 
 
-
+-------------------------------------
 ##### EARLY YEARS #####
+
   I've been a fan of technology since 1995, when (at five years old) I saw an email sent for the first time. 
 I knew at that moment computers were akin to magic, and I wanted to be a part of that fantastic world.
 
@@ -31,14 +32,16 @@ in a town of 420 residents, far away from the technical world. Gear from all acr
 Free Geek, and I became intimately aware of hardware's evolution. From physically dismantaling computer
 systems, to testing and cataloging usable parts, then finally assembling and configuring custom chassis,
 I had the luxury to explore the mysterious world of computing.
-##### EARLY YEARS #####
+-------------------------------------
 
+-------------------------------------
 #### EDUCATION ####
   Later I would pursue higher education in Computer Science at Southern Oregon University (SOU).
 During my time at SOU, I happily worked in the I.T. department, servicing SOU faculty and students alike.
 In 5 years at SOU, I had made my way from I.T. HelpDesk, to Software Deployment, and assisting 
 the Sys-Admins with a variety of responsibilities. 
 #### EDUCATION ####
+-------------------------------------
 
 #### SOFTWARE CAREER ####
   After graduating with a Bachelor's of Computer Science Information Assurance in June 2013, 

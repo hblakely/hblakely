@@ -86,6 +86,10 @@ positive results, I've been taking time to recover fully and get myself back up 
 mathematical challenges via projeceueler.com. In addition to making my code more efficient, I am
 practicing with a number of full-stack tools, the newest to me being Docker. 
 
+  Soon I hope to jump back into the ever-changing world of Software Engineering, and potentially with a
+new team. I'm using my time to build my skills, and to explore new and interesting possibilities
+in employment.
+
 -------------------------------------
 
 

@@ -75,7 +75,7 @@ customers could now appreciate a faster build-time for custom application servic
   As a member of R&D tasks were often brand new to me. It didn't matter which languages, or which parts of 
 the stack were in use, it only mattered that the job got done. In addition to building the tools for 
 VRC's developers, it was my duty to assist those same developers in correcting problematic code, and
-testing to verify proper functionality. 
+test to verify proper functionality. 
 
 -------------------------------------
 #### HIATUS ####

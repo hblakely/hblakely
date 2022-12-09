@@ -9,7 +9,7 @@
 What I've learned so far is that there is always more to know. While I've dabbled in a variety of languages 
 I'm most comfortable with Java, though I am interested in expanding my understanding and tool set.
 
-So far this GitHub account is being used to track my (recent) progress with projecteueler.com's math+cs problems,
+ So far this GitHub account is being used to track my (recent) progress with projecteueler.com's math+cs problems,
 and leetcode.com's cs interview questions.
 
 I’m looking to collaborate on interesting projects that have the potential to make life easier and safer.
@@ -45,10 +45,12 @@ Seven years of full stack engineering alongside VRC's Guru Peter Guy was a uniqu
 freshly graduated CS major. For the first two years we would meet in-office to collaborate. The 
 following five years were spent remotely collaborating. Over a seven year period, our small R&D
 team designed a fourth generation language to remove our dependency on a soon-to-be deprecated
-language (Oracle's) SQR. ANTLR 4's grammer generation allowed us to create our own language,
-and also to translate our codebase to the new V4GL. 
+language, (Oracle's) SQR. ANTLR 4's grammer generation allowed us to create our own language,
+and also to translate our codebase to the new V4GL. This new language allowed VRC to continue 
+opperating effectively, maintain security certificates, and also remove dependency from Oracle
+Database - saving us a chunk of change.
 
-A new language is cool, but without a proper developement environment for that language our developers 
+  A new language is cool, but without a proper developement environment for that language our developers 
 wouldn't be as effective as we'd like. Repurposing WaveMaker's web IDE allowed us to make typie typie 
 into clickie clickie, speeding up developement. VRC's insurance system customers could now appreciate
 a faster build-time for customer application services.

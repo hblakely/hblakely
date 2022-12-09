@@ -92,9 +92,9 @@ in employment.
 
 -------------------------------------
 
-PERSONAL LIFE
+#### PERSONAL LIFE ####
 
-I've nearly been a cyborg for 19 years now. Delving into many aspects of computers and technology
+I've nearly been a cyborg for 19 years now, delving into many aspects of computers and technology
 since childhood. I do, however, have a number of interests outside of my techical background.
 
 Rock climbing, snow boarding, karate, yoga, audio engineering, musical performance, cooking, chess, 

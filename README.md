@@ -65,7 +65,7 @@ following five years were spent as remote collegues.
 dependency on a soon-to-be deprecated language, (Oracle's) SQR. ANTLR 4's grammer generation allowed 
 us to create our own language (V4G), and also to translate our codebase to the new V4GL. This new language 
 allowed VRC to continue opperating effectively, maintain security certificates, and also remove dependency 
-from Oracle's Database - saving us a chunk of change. Instead, we adopted Postgres DB.
+from Oracle's Database - saving us a chunk of change. We adopted Postgres DB as a replacement.
 
   A new language is cool, but without a proper developement environment for that language our team 
 wouldn't be as effective as we'd like. Repurposing WaveMaker's web-based IDE to build software using V4GL 

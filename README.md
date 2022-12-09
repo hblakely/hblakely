@@ -12,11 +12,9 @@ I'm most comfortable with Java, though I am interested in expanding my understan
 So far this GitHub account is being used to track my (recent) progress with projecteueler.com's math+cs problems,
 and leetcode.com's cs interview questions.
 
-I’m looking to collaborate on interesting projects that have the potential to make things better for humans.
+I’m looking to collaborate on interesting projects that have the potential to make life easier and safer.
 
-How to reach me: https://www.linkedin.com/in/hunter-blakely-81837370/
-
-I'll be updating things as I go, so feel free to follow along if you like.
+Reach me: https://www.linkedin.com/in/hunter-blakely-81837370/
 
 -------------------------------------
 ##### EARLY YEARS #####

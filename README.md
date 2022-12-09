@@ -67,7 +67,7 @@ us to create our own language (V4G), and also to translate our codebase to the n
 allowed VRC to continue opperating effectively, maintain security certificates, and also remove dependency 
 from Oracle's Database - saving us a chunk of change. We adopted Postgres DB as a replacement.
 
-  A new language is cool, but without a proper developement environment for that language our team 
+  Our new language was cool, but without a proper developement environment for that language our team 
 wouldn't be as effective as we'd like. Repurposing WaveMaker's web-based IDE to build software using V4GL 
 allowed us to make "typie-typie" into "clickie-clickie", speeding up developement. VRC's insurance system 
 customers could now appreciate a faster build-time for custom application services.

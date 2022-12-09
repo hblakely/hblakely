@@ -20,9 +20,6 @@ How to reach me: https://www.linkedin.com/in/hunter-blakely-81837370/
 I'll be updating things as I go, so feel free to follow along if you like.
 
 -------------------------------------
-
-
--------------------------------------
 ##### EARLY YEARS #####
 
   I've been a fan of technology since 1995, when (at five years old) I saw an email sent for the first time. 
@@ -38,15 +35,11 @@ systems, to testing and cataloging usable parts, then finally assembling and con
 I had the luxury to explore the mysterious world of computing.
 
 -------------------------------------
-
--------------------------------------
 #### EDUCATION ####
   Later I would pursue higher education in Computer Science at Southern Oregon University (SOU).
 During my time at SOU, I happily worked in the I.T. department, servicing SOU faculty and students alike.
 In 5 years at SOU, I had made my way from I.T. HelpDesk, to Software Deployment, and assisting 
 the Sys-Admins with a variety of responsibilities. 
-
--------------------------------------
 
 -------------------------------------
 #### SOFTWARE CAREER ####
@@ -63,8 +56,6 @@ A new language is cool, but without a proper developement environment for that l
 wouldn't be as effective as we'd like. Repurposing WaveMaker's web IDE allowed us to make typie typie 
 into clickie clickie, speeding up developement. VRC's insurance system customers could now appreciate
 a faster build-time for customer application services.
-
--------------------------------------
 
 -------------------------------------
 #### HIATUS ####

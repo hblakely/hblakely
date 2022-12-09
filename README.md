@@ -11,7 +11,7 @@ experience.
 While I've dabbled with many languages at just about every level of the stack, I'm most comfortable with Java.
 
 So far this GitHub account is being used to track my (recent) progress with projecteueler.com's math+cs problems,
-and leetcode.com's cs interview questions. I'll branch out with other projects eventually too.
+and leetcode.com's cs interview questions.
 
 I’m looking to collaborate on interesting projects that have the potential to make things better for humans.
 

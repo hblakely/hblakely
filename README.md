@@ -80,7 +80,7 @@ test to verify proper functionality.
 -------------------------------------
 #### HIATUS ####
   Crohn's disease paused my activity with VRC starting April 1st, 2021. Since then, a variety of medications
-have been tested until we finally found one that worked. With effectuive new medication, and a life-saving
+have been tested until we finally found one that worked. With effective new medication, and a life-saving
 surgery, I have been making a miraculous recovery. Instead of immediately returning to work after experiencing
 positive results, I've been taking time to recover fully and get myself back up to speed technologically.
 

@@ -97,7 +97,7 @@ in employment.
 #### PERSONAL LIFE ####
 
   I've nearly been a cyborg for 19 years now, delving into many aspects of computers and technology
-since childhood. I do, however, have a number of interests outside of my techical background.
+since childhood. I do, however, have a number of interests outside of my technical background.
 
   Rock climbing, snow boarding, karate, yoga, audio engineering, musical performance, cooking, chess, 
 and a number of other pastimes have been a part of my life too. I enjoy life, and what it has to offer,

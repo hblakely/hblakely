@@ -100,7 +100,7 @@ in eemployment.
 since childhood. I do, however, have a number of interests outside of my techical background.
 
   Rock climbing, snow boarding, karate, yoga, audio engineering, musical performance, cooking, chess, 
-and a number of other pass-times have been a part of my life too. I enjoy life, and what it has to offer,
+and a number of other pastimes have been a part of my life too. I enjoy life, and what it has to offer,
 as often as is good to do so; and I look forward to spending time and collaborating with others who do
 the same.
 

@@ -57,7 +57,7 @@ searching for employment as an engineer.
 #### SOFTWARE CAREER ####
   After graduating with a Bachelor's of Computer Science Information Assurance in June 2013, 
 I began my career in Software Engineering with Virtual Research Corporation Insurance Systems (VRC). 
-Seven years of full stack engineering alongside VRC's Guru Peter Guy was a unique experience for a 
+Seven years of full stack engineering alongside VRC's Guru, Peter Guy, was a unique experience for a 
 freshly graduated CS major. For the first two years we would meet in-office to collaborate. The 
 following five years were spent as remote collegues. 
 
@@ -100,8 +100,7 @@ in employment.
 since childhood. I do, however, have a number of interests outside of my technical background.
 
   Rock climbing, snow boarding, karate, yoga, audio engineering, musical performance, cooking, chess, 
-and a number of other pastimes have been a part of my life too. I enjoy life, and what it has to offer,
-as often as is good to do so; and I look forward to spending time and collaborating with others who do
+and a number of other pastimes have been a part of my life too. I enjoy life, and what it has to offer, and I look forward to spending time and collaborating with others who do
 the same.
 
 -------------------------------------

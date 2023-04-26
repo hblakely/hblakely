@@ -79,7 +79,7 @@ test to verify proper functionality.
 
 -------------------------------------
 #### HIATUS ####
-  Crohn's disease paused my activity with VRC starting April 1st, 2021. Since then, a variety of medications
+  Crohn's disease ended my activity with VRC April 1st, 2021. Since then, a variety of medications
 have been tested until we finally found one that worked. With effective new medication, and a life-saving
 surgery, I have been making a miraculous recovery. Instead of immediately returning to work after experiencing
 positive results, I've been taking time to recover fully and get myself back up to speed technologically.
@@ -88,10 +88,8 @@ positive results, I've been taking time to recover fully and get myself back up 
 mathematical challenges via projeceueler.com. In addition to making my code more efficient, I am
 practicing with a number of full-stack tools, the newest to me being Docker. 
 
-  In 2023 I will jump back into the ever-changing world of Software Engineering, and potentially with a
-new team. Until then I'm using my time to build my skills, and to explore new and interesting possibilities
-in employment.
-
+  In 2023 I will jump back into the ever-changing world of Software Engineering with a new team. Until then 
+I'm using my time to build my skills, and to explore new and interesting possibilities in employment.
 -------------------------------------
 
 #### PERSONAL LIFE ####

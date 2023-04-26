@@ -90,6 +90,7 @@ practicing with a number of full-stack tools, the newest to me being Docker.
 
   In 2023 I will jump back into the ever-changing world of Software Engineering with a new team. Until then 
 I'm using my time to build my skills, and to explore new and interesting possibilities in employment.
+
 -------------------------------------
 
 #### PERSONAL LIFE ####
